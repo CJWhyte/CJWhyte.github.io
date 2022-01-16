@@ -1,12 +1,2 @@
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-gem "github-pages", group: :jekyll_plugins
-
-title: [Christopher J. Whyte]
-description: [I am a computational cognitive neuroscientist interested in the neural basis of adaptive behaviour broadly conceived. In particular I study rule-based decision making, and occasionally perceptual awareness, using a range of formal models with the aim of explaining data from behavioural and functional neuroimaging experiments. 
-
-I am currently reading for a PhD in Medical Science at the University of Cambridge in the MRC Cognition and Brain Sciences unit as a part of the Harding Distinguished Postgraduate Scholars Programme. I received an MPhil (2020) from the University of Sydney working in the Computational Cognitive Neuroscience lab, and a BSc (2018) with a major in Cognitive and Brain Sciences and a minor in Philosophy from Macquarie University. 
-
-A full list of my publications can be found on my google scholar page.]
